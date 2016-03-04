@@ -1,0 +1,1 @@
+var obj={a:"xiaodi",b:"wuxin",c:function(a){alert(a)}};
